@@ -54,7 +54,7 @@ body {
     line-height: 129.53px;
     color: #DB00FF;
     margin: 0;
-    text-shadow: 4px 4px 0px #FF0070;
+    text-shadow: 4px 4px 0 #FF0070;
 }
 
 .header { 
@@ -89,7 +89,7 @@ body {
     width: 25px;
     height: 25px;
     max-width: 25px;
-    border-width: 0px 0px 1px 1px;
+    border-width: 0 0 1px 1px;
     border-style: solid;
     border-color: #FF0070;
 }
@@ -797,7 +797,7 @@ body {
 position: absolute;
 width: 1024px;
 height: 768px;
-left: 0px;
+left: 0;
 top: 4240px;
 
 
